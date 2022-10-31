@@ -23,7 +23,7 @@ projects: []
 ---
 ### Watch the full presentation
 
-{{< youtube id="3x-PbLL8UjM&t=167s" >}}
+{{< yt 3x-PbLL8UjM&t=167s >}}
 
 ---
   
