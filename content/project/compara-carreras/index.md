@@ -1,5 +1,4 @@
 ---
-
 title: "Compara Carreras"
 subtitle: "An online platform that displays data to help prospective college students make informed decisions about their choice of academic major from an economical perspective."
 

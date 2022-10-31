@@ -23,7 +23,7 @@ projects: [educacion-pandemia]
 ---
 ### Watch the full interview
 
-{{< yt X2UxcB5MbWw&t=579s >}}
+{{< youtube id="X2UxcB5MbWw&t=579s" >}}
 
 ---
 

@@ -23,7 +23,7 @@ projects: [compara-carreras]
 ---
 ### Watch the full interview
 
-{{< yt IClhvmfGI-4&t=63s >}}
+{{< youtube id="IClhvmfGI-4&t=63s" >}}
 
 ---
 This [interview on a national news channel](IClhvmfGI-4&t=63s) presents ComparaCarreras.org and explains its contents and functionality, along with that year's main results.

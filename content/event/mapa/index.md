@@ -24,7 +24,7 @@ projects: [mapa]
 ---
 ### Watch the full interview
 
-{{< yt l2madkUqGLw&t=106s >}}
+{{< youtube id="l2madkUqGLw&t=106s" >}}
 
 ---
 

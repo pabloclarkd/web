@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Projects
-subtitle: 'These are some examples of the projects I was most involved in at my previous professional roles. Some of them are research documents and others are web tools developed while working at a non-governmental organization.'
+subtitle: 'These are some of the projects I was most involved in at my previous positions. Some of them are research documents and others are web tools that were part of applied interventions.'
 
 content:
   # Page type to display. E.g. project.

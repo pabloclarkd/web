@@ -10,7 +10,7 @@ weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Courses & Certifications'
-subtitle: I'm always looking to learn new subjects and skills. These are some of the courses that have contributed something important to me.
+subtitle: I'm always looking to learn new subjects and skills. These are the courses that have contributed something important to me.
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -34,12 +34,12 @@ item:
     date_start: '2020-09-22'
     organization: Coursera
     description: In this short course I learned the basics of using Shiny for building simple dashboards.
-    title: Creating a Dynamic Web Application using RShiny
+    title: Creating a Dynamic Web Application using RShiny.
   - certificate_url: https://courses.edx.org/certificates/b99a699a35e146458bb231c529ef7bf2
     date_start: '2019-05-01'
     organization: EdX
     title: What Works in Education? Evidence-based education policy
-    description: A course in spanish offered by IDBx, an online learning initiative from the Interamerican Development Bank
+    description: A course in spanish offered by IDBx, an online learning initiative from the Interamerican Development Bank.
   - certificate_url: ''
     date_start: '2018-12-01'
     organization: Laboratorio Nacional de Políticas Públicas
@@ -55,7 +55,7 @@ item:
     date_end: '2019-05-17'
     organization: 'Friedrich Naumann Foundation'
     title: 'Education in Crisis'
-    description: Two week seminar in Gummersbach, Germany analyzing the challenges and solutions that educational systems around the world face in the 21th century
+    description: Two week seminar in Gummersbach, Germany analyzing the challenges and solutions that educational systems around the world face in the 21th century.
 
 design:
   columns: '2'

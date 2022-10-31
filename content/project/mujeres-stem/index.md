@@ -7,8 +7,9 @@ tags:
 - Analysis
 categories: []
 date: 2022-03-19T17:48:41-05:00
+lastmod: 2021-10-20T10:09:12-05:00
 
-featured: true
+featured: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
