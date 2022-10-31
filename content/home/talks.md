@@ -7,10 +7,11 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 66
 
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: 'Interviews and Presentations'
+subtitle: As a spokesman for the projects I led, I regularly gave interviews and presented them at events.
+
 
 content:
   # Page type to display. E.g. post, event, publication...

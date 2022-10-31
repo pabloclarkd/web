@@ -7,10 +7,10 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 60
 
-title: Recent Publications
-subtitle: ''
+title: Publications
+subtitle: Most of my work involved some form of writing. I regularly wrote reports, policy analysis briefs, opinion articles, grant proposals and social media material, and it was one of my favorite parts of my job.
 
 content:
   # Filter on criteria
@@ -34,6 +34,9 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+
+
+
 ---
 
 {{% callout note %}}

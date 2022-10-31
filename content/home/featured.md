@@ -3,18 +3,20 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: collection
 
+active: false
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30
 
-title: Featured Publications
+title: Featured Project
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: project
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria

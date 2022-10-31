@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Pablo Clark # Website name
+baseURL: 'https://pabloclarkd.github.io/WebPortafolio' # Website URL
 
 ############################
 ## LANGUAGE
@@ -32,7 +32,7 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+paginate: 5
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>

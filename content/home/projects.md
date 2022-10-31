@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 50
 
 title: Projects
-subtitle: ''
+subtitle: 'These are some examples of the projects I was most involved in at my previous professional roles. Some of them are research documents and others are web tools developed while working at a non-governmental organization.'
 
 content:
   # Page type to display. E.g. project.
@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Research
+      tag: Analysis
+    - name: Websites
+      tag: Website
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
