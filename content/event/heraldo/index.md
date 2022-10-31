@@ -23,8 +23,8 @@ projects: [educacion-pandemia]
 ---
 ### Watch the full interview
 
-{{< youtube =X2UxcB5MbWw&t=579s >}}
+{{< youtube id="X2UxcB5MbWw&t=579s" >}}
 
 ---
 
-This interview on a national news channel presents the main findings in IMCO's analysis on some actions of the return to in-person classes strategy in Mexico.
+This [interview on a national news channel](https://www.youtube.com/watch?v=X2UxcB5MbWw&t=579s) presents the main findings in IMCO's analysis on some actions of the return to in-person classes strategy in Mexico.
