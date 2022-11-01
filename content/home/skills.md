@@ -16,7 +16,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: I produced analysis and visualizations to answer research questions and to turn insights into stories, with which to communicate our findings to other stakeholders and audiences.
+  - description: I produced analysis and visualizations to prepare data for our web tools and for analysis, to answer research questions, and to turn our results into stories that communicate our findings to other audiences.
     icon: chart-line
     icon_pack: fas
     name: Data Analysis and Visualization

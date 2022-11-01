@@ -27,4 +27,4 @@ projects: []
 
 ---
   
-I gave this [presentation](https://www.youtube.com/watch?v=3x-PbLL8UjM&t=167s) in a forum organized by Mexico's lower legislative chamber, in which I talked about the 2019 education law proposals that regulate public teacher admissions and promotions.
+I gave this [presentation](https://www.youtube.com/watch?v=3x-PbLL8UjM&t=167s) in a forum organized by one of Mexico's federal legislative chambers, in which I talked about the transparency and accountability aspects of the 2019 education law proposals to regulate public teacher admissions and promotions.

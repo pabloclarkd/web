@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Experience
-subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. My current role is at Telus International AI, in a remote position as Online Data Analyst. At the moment I'm looking a remote position as a reseacher, project leader or data analyst.
+subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. My current role is at Telus International AI, in a remote position as Online Data Analyst. At the moment I'm looking for a remote position as a reseacher, project leader or data analyst.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format

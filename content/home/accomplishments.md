@@ -55,7 +55,7 @@ item:
     date_end: '2019-05-17'
     organization: 'Friedrich Naumann Foundation'
     title: 'Education in Crisis'
-    description: Two week seminar in Gummersbach, Germany analyzing the challenges and solutions that educational systems around the world face in the 21th century.
+    description: Two week seminar in Gummersbach, Germany analyzing the challenges and opportunities that educational systems around the world face in the 21th century.
 
 design:
   columns: '2'
