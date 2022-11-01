@@ -30,11 +30,11 @@ url_video: ""
  
  #### Project Description
 
-![Compara Carreras](/static/compara.PNG) 
+![Compara Carreras](/compara.jpg ) 
 
 [ComparaCarreras.org](https://imco.org.mx/comparacarreras/) (_CompareMajors_, in Spanish) is an interactive tool for prospective college students to view and compare key statistics about graduates of different academic majors in the labor market. Its goals are to help young people make evidence-based decisions and to consider an economic perspective when choosing an academic major in college. The site presents a profile for university programs in Mexico, with data such as their earnings, tuiton costs,employment rates and return on investment, and allows easy comparisons between different majors.
 
-#### How Was I Involved in this Project?
+#### How Was I Involved in this project?
 
 I was responsible for maintaining this project and presenting a yearly update of results, along with a launch campaign with communication materials, a press conference and a series of interviews. I worked on or coordinated many different tasks in this project. Some of these tasks dealt with its data, such as supervising a team of four interns who collected a small survey on college tuition costs, processing household surveys and other sources to obtain all necessary data, and creating files for the site’s database. I drafted press releases, social media materials and a slide presentation that used the project's results to tell young people who plan to attend college what they gain by using ComparaCarreras. 
 

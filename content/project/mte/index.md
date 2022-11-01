@@ -43,6 +43,6 @@ projects: []
 
 #### What was my involvement in this project?
 
-IMCO began this project in 2013. After I joined IMCO in 2015, I mostly worked in Mejora Tu Escuela for several years until I became responsible for the project as a whole. At first I was involved in dealing with the site's users and writing content. Afterwards I began to work with its data, dealing with tasks like finding available sources, processing and using them in analysis, and preparing them to be inserted into the site's database. Later on, I began to use Google Analytics to monitor site usage, track objectives and implement changes and additions to the site. 
+I began doing an intership at IMCO while finishing college and my first experience there was Mejora Tu Escuela. I worked on this project for several years until I became responsible it as a whole. At first I was involved in dealing with the site's users and writing content. Afterwards I began to work with its data, dealing with tasks like finding available sources, processing and using them in analysis, and preparing them to be inserted into the site's database. Later on, I began to use Google Analytics to monitor site usage, track objectives and implement changes and additions to the site. 
 
 **Additional content for this project can be found beneath this page's main title.**
