@@ -3,7 +3,7 @@ title: "Mapa de Reconstrucción Escolar"
 
 subtitle: ""
 
-summary: The School Reconstruction Map is an interactive map of schools which were damaged by the 2017 earthquakes in Mexico. The map represents the level of damage of each building and its rebuilding status at a glance. Pop-up cards for each school offer more details, such as the budget it received and how much it spent. Its goals are to increase cooperation between public and private stakeholders, enhance accountability and facilitate transparency in the rebuilding of education infrastructure. 
+summary: The School Reconstruction Map is an interactive map of schools which were damaged by the 2019 earthquakes in Mexico. The map represents the level of damage of each building and its rebuilding status at a glance. Pop-up cards for each school offer more details, such as the budget it received and how much it spent. Its goals are to increase cooperation between public and private stakeholders, enhance accountability and facilitate transparency in the rebuilding of education infrastructure. 
 
 authors:
 - admin
@@ -30,7 +30,7 @@ image:
 
 #### Project Description
 
-The [School Reconstruction Map](http://reconstruccion.mejoratuescuela.org/) is an interactive map of schools which were damaged by the earthquakes in Mexico in 2017. The map displays information about the level of damage and repair status of each affected building. Pop-up cards for each school offer more details, such as the budget it received and how much it spent. This tool sought to increase cooperation between public and private stakeholders, enhance accountability and facilitate transparency in the rebuilding of education infrastructure. 
+The [School Reconstruction Map](http://reconstruccion.mejoratuescuela.org/) is an interactive map of schools which were damaged by the earthquakes in Mexico in 2019. The map displays information about the level of damage and repair status of each affected building. Pop-up cards for each school offer more details, such as the budget it received and how much it spent. This tool sought to increase cooperation between public and private stakeholders, enhance accountability and facilitate transparency in the rebuilding of education infrastructure. 
 
 #### What was my involvement in this project?
 

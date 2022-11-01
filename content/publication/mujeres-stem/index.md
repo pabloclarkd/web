@@ -1,7 +1,7 @@
 ---
-title: "¿Dónde están las científicas?"
+title: "¿Dónde están las científicas? Brechas de género en carreras STEM"
 
-subtitle: "Brechas de género en carreras STEM"
+subtitle: ""
 
 summary: "This report analyzes ten years of data from household surveys and administrative records on college enrollment to describe how the gender gap in STEM subjects begins in childhood and grows until it comes to shape women's professional careers. "
 

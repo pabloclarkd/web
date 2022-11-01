@@ -28,7 +28,7 @@ feature:
     icon: file-word
     icon_pack: fas
     name: Writing
-  - description: I was responsible for several analysis projects and some web tools that were part of our applied interventions. I was in charge of planning their goals and stages, tracking its processes and outcomes, and making sure the projects moved along timely and appropriately. 
+  - description: I was in charge of several analysis projects and web tools. My responsabilities included planning their goals and stages, collecting and analyzing its data, tracking its processes and outcomes, and working together with other teams to make sure the projects moved along timely and appropriately. 
     icon: list-check
     icon_pack: fas
     name: Project Management

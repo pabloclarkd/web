@@ -3,7 +3,7 @@ title: "Educación en pandemia"
 
 subtitle: "Research project on some the effects of the pandemic on education in Mexico"
 
-summary: Two research reports that analyze distance-learning policies during the pandemic in the Mexican educational system. The first document explores data about the effects of remote schooling on pupil's attendance and learning, in order to argue the urgency of public policies that manage the medium and long-term consequences of students who learned less or who dropped out of school entirely. The second document zooms in on the actions and programs implemented during the return to in-person classes, which were intended to provide teachers with tools to diagnose student learning and give support to pupils who have fell behind their peers.
+summary: Two research reports that analyze distance-learning policies during the pandemic in the Mexican educational system. The first document explores the effects of remote schooling on pupil's attendance and learning, in order to argue the urgency of public policies that manage the medium and long-term consequences of a generation of students who learn less or cut their education short. The second document zooms in on the some of the actions implemented during the return to in-person classes, which intended to provide teachers with tools to diagnose student learning and to give support to pupils who fell behind their peers.
 
 authors:
 - admin
