@@ -3,7 +3,7 @@ title: "Educación en pandemia"
 
 subtitle: "A research project exploring some of the effects brought by the pandemic on students and schools in Mexico"
 
-summary: Two research reports that analyze distance-learning policies during the pandemic in the Mexican educational system. The first document explores the effects of remote schooling on pupil's attendance and learning, in order to argue the urgency of public policies that manage the medium and long-term consequences of a generation of students who learn less or cut their education short. The second document zooms in on the some of the actions implemented during the return to in-person classes, which intended to provide teachers with tools to diagnose student learning and to give support to pupils who fell behind their peers.
+summary: Two research reports that analyze distance-learning policies during the pandemic in the Mexican educational system. The first document explores the effects of remote schooling on pupil's attendance and learning, in order to argue the urgency of public policies that manage the medium term consequences of a generation of students who learned less or cut their education short. The second document zooms in on the the actions implemented during the return to in-person classes, which intended to provide teachers with tools to diagnose student learning and to give support to pupils who fell behind their peers.
 
 authors:
 - admin
@@ -31,7 +31,7 @@ image:
 
 #### Project Description
 
-During the pandemic, around 84% of students around the globe stopped going to in-person classes and received schooling at home for periods which in some countries extended to over two years. Available evidence on learning achievements during the pandemic indicates most students have not learned as much as they should have and drop-rates have increased across the board. However, policies meant to address these effects have been hampered by the lack of measurements of the extent and distribution of the impact of the pandemic on education. 
+During the pandemic, around 84% of students around the globe stopped going to in-person classes and received schooling at home for periods which in some countries extended to over two years. Available evidence on learning achievements during the pandemic indicates most students have not learned as much as they should have and drop-rates have increased across the board. However, policies meant to address these effects have been hampered by the lack of measurements of the depth of the impact of the pandemic on education. 
 
 ##### Report 1: Education in the Pandemic: the Risks of Distance Learning.
 
