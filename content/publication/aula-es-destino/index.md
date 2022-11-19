@@ -1,29 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Tendencias en la oferta pública y la cobertura privada de la educación superior en México"
-authors: 
+title: "Manéjese con cuidado: Aula es destino"
+authors:
+- Alexandra Zapata
 - admin
-date: 2018-11-14T12:16:59-06:00
+date: 2018-10-01T09:35:40-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-11-14T12:16:59-06:00
+publishDate: 2022-11-17T09:35:40-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Bachelor's Degree Thesis"
+publication: "Nexos: Sociedad, Ciencia, Literatura, vol. 40, no. 490, Oct. 2018, pp. 33"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: This is my bachelor's degree thesis, in which I analyze how public policies that sought to change the academic degree offered at public universities had the unintended consequence of further altering the gender balance in the choice of college major.
+summary: "This opinion article reflects on the challenges that the incoming president López Obrador faces to break the ties between social and educational outcomes. It was published in the october 2018 printed version of Nexos, a cultural and political magazine in based in Mexico City."
 
 tags: []
 categories: []
@@ -43,15 +44,15 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.nexos.com.mx/?p=39543
 url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Image credit: Nexos"
+  focal_point: smart
   preview_only: false
 
 # Associated Projects (optional).
@@ -71,6 +72,8 @@ slides: ""
 
 #### Publication Description
 
-This is my bachelor's degree thesis, in which I analyze how policies that sought to change the composition of academic degrees offered at public universities in Mexico had the unintended consequence of deepening gender differences in the choice of college and degrees between men and women. 
+This [opinion article](https://www.nexos.com.mx/?p=39543) reflects on the challenges that the incoming president López Obrador faces to loosen the ties between socioeconomical conditions of children and their educational outcomes. It was published in the october 2018 printed version of Nexos, a cultural and political magazine in based in Mexico City.
 
-I received an honors degree in part as recognition of this thesis.
+#### What was my role in this publication?
+
+I co-wrote this article alongside my boss at the time at IMCO.

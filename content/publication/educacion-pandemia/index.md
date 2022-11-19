@@ -1,6 +1,6 @@
 ---
 
-title: "Educación en pandemia: riesgos de la educación a distancia"
+title: "Educación en pandemia: riesgos de las clases a distancia"
 
 subtitle: ""
 summary: This report explores data about the effects of remote schooling on pupil's attendance and learning, in order to argue the urgency of public policies that manage the medium and long-term consequences of students who learned less or who dropped out of school entirely

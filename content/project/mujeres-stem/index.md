@@ -47,6 +47,7 @@ slides: ""
 
 In Mexico, women make up only 3 out of every 10 college graduates from science, technology, engineering and math degrees, also known as (STEM). This gender gap can be traced to childhood and shapes the rest of women's professional lives. STEM graduates earn some of the highest incomes ($13,336 pesos) in comparison to other graduates ($12,380) and the gender income gap is also lower among them. However, other gender gaps persist in STEM graduates who are in the labor market. Attracting more women to STEM, as well as making sure they grow and advance in their careers, would allow Mexico to benefit from the scientific potential of women. Strengthening the participation of women in these occupations would also send a message to young girls about their importance in science. 
 
+This research report offers a snapshot of the presence of women in STEM in universities and the workforce in Mexico. It uses data from a labor market survey and college administrative records to outline the main challenges that women who study or work in STEM faced between 2012 and 2021 and offers some policy suggestions on how to address these issues.
 
 #### What was my involvement in this project?
 

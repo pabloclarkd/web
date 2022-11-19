@@ -49,5 +49,3 @@ This [opinion piece](https://educacion.nexos.com.mx/un-sistema-educativo-en-obra
 #### What was my involvement in this publication?
 
 I was the sole author of this article and the data that it uses.
-
-**You can find additional content for this publication beneath the title of this post.**

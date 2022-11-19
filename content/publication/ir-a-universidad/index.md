@@ -56,5 +56,3 @@ This [opinion article](https://www.animalpolitico.com/sin-competitividad-no-hay-
 #### What was my involvement in this publication?
 
 I was the sole author of this opinion piece.
-
-**Additional content for this publication can be found beneath the page’s title**
