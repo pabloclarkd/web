@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Projects
-subtitle: 'These are the projects I was most involved in while working at [IMCO](https://imco.org.mx/), a non-government organization. Some of these projects are research documents and others are web tools that were part of applied interventions.'
+subtitle: 'These are the projects I was most involved in while working at [IMCO](https://imco.org.mx/), a non-government organization. Some of them are research documents and others are applied web tools.'
 
 content:
   # Page type to display. E.g. project.
