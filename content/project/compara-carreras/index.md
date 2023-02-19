@@ -2,7 +2,7 @@
 title: "Compara Carreras"
 subtitle: "An online platform that displays data to help prospective college students make informed decisions about their choice of academic major from an economical perspective."
 
-summary: ComparaCarreras.org is an online tool that displays labor market data of college graduates in Mexico, like earnings, tuition costs, employment rates and return on investment, and allows easy comparisons between different majors. This site helps prospective college students understand the economical costs, benefits and risks associated with graduating from different academic programs, so that their choice can balance their interests and aptitudes with their financial expectations.
+summary: ComparaCarreras.org is an online tool that displays labor market data of college graduates in Mexico, like earnings, tuition costs, employment rates and return on investment, and allows easy comparisons between different majors. This site helps prospective college students understand the economical costs, benefits and risks associated with different academic programs, so that their choice can balance their interests and aptitudes with their financial expectations.
 
 authors:
 - admin

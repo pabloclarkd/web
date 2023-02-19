@@ -32,7 +32,7 @@ feature:
     icon: list-check
     icon_pack: fas
     name: Project Management
-  - description: I have basic SQL skills. The projects that involved web tools occasionally required me to query data, before working with it in some other software like R. I also had to be familiar with parts of the data models, as I often prepared data for others insert into our sites´s databases. 
+  - description: I have basic SQL skills. The projects that involved web tools occasionally required me to query data, before working with it in some other software like R. I also had to be familiar with parts of the data models, as I often prepared data for others insert into our sites´ databases. 
     icon: code
     icon_pack: fas
     name: SQL
