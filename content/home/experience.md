@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Experience
-subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. My current role is at Telus International AI, in a remote position as Online Data Analyst. At the moment, I'm looking for a remote position as a reseacher, project leader or data analyst.
+subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. My current role is as a Customer Service Representative. At the moment, I'm looking for a position as a data analyst or reseacher.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -27,7 +27,11 @@ experience:
     location: Barcelona, Spain
     date_start: '2022-12-13'
     date_end: ''
-    description: Analyze and provide feedback on text, web pages, images and other types of information for leading search engines.
+    description: |2-
+
+        * Communicate with customers over the phone to register them, sell services, process payments and manage appointments
+        * Update database records of customers interactions, transactions and complaints
+
   - title: Online Data Analyst
     company: Telus International AI 
     location: Remote
