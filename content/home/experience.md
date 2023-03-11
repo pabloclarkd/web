@@ -22,11 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Customer Service Representative
+    company: The 7th Circle
+    location: Barcelona, Spain
+    date_start: '2022-12-13'
+    date_end: ''
+    description: Analyze and provide feedback on text, web pages, images and other types of information for leading search engines.
   - title: Online Data Analyst
     company: Telus International AI 
     location: Remote
     date_start: '2022-05-02'
-    date_end: ''
+    date_end: '2022-12-01'
     description: Analyze and provide feedback on text, web pages, images and other types of information for leading search engines.
   
   - title: Researcher
