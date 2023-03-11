@@ -3,7 +3,7 @@ title: "Mapa de Reconstrucción Escolar"
 
 subtitle: ""
 
-summary: The School Reconstruction Map is an interactive map of schools which were damaged by the 2019 earthquakes in Mexico. The map represents the level of damage of each building and its rebuilding status at a glance. Pop-up cards for each school offer more details, such as the budget it received and how much it spent. Its goals are to increase cooperation between public and private stakeholders, support accountability and facilitate transparency in the rebuilding of education infrastructure. 
+summary: The School Reconstruction Map is an interactive map showing schools which were damaged by the 2019 earthquakes in Mexico. The map represents the level of damage of each building and its rebuilding status at a glance. Pop-up cards for each school offer more details, such as the budget it received and how much it spent. Its goals are to increase cooperation between public and private stakeholders, support accountability and facilitate transparency in the rebuilding of education infrastructure. 
 
 authors:
 - admin

@@ -4,7 +4,7 @@ title: "Mejora Tu Escuela"
 
 subtitle: "An online tool to help citizens make data-driven decisions about their education"
 
-summary: Mejora Tu Escuela is an online platform that provides citizens with information about school performance. It helps parents choose the best option for their children, empowers them to demand higher-quality education, and gives them tools to get involved in their children’s schooling. It also provides school administrators, policymakers and NGOs with data to identify areas requiring improvement and hotbeds of corruption, in the process raising the overall quality of education in Mexico.
+summary: Mejora Tu Escuela is an online platform that provides citizens with data about school performance. It helps parents choose the best option for their children, empowers them to demand higher-quality education, and gives them tools to get involved in their children’s schooling. It also provides school administrators, policymakers and NGOs with data to identify areas requiring improvement and hotbeds of corruption, in the process raising the overall quality of education in Mexico.
 
 authors: 
 - admin

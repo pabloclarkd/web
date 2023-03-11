@@ -28,4 +28,4 @@ projects: [mapa]
 
 ---
 
-This [interview at a national news show](https://www.youtube.com/watch?v=l2madkUqGLw&t=106s) presents the tool developed by IMCO to track the rebuilding of schools damaged by earthquakes in central Mexico, along with the main findings of the analysis we conducted using the tool's data.
+This [interview at a national news show](https://www.youtube.com/watch?v=l2madkUqGLw&t=106s) introduces the tool developed by IMCO to track the rebuilding of schools damaged by earthquakes in central Mexico, along with the main findings of the analysis we conducted using the tool's data.

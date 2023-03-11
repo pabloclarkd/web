@@ -10,7 +10,7 @@ headless: true
 weight: 66
 
 title: 'Interviews and Presentations'
-subtitle: As a spokesman for the projects I led, I regularly gave interviews and presented them at events.
+subtitle: As a spokesman for the projects I led, I regularly gave interviews and represented them at events.
 
 
 content:

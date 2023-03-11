@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Experience
-subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. My current role is at Telus International AI, in a remote position as Online Data Analyst. At the moment, I'm looking for a remote position as a reseacher, project leader or data analyst.
+subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. My current role is as a Customer Service Representative in Barcelona, Spain. At the moment, I'm looking for a remote position as a reseacher, project leader or data analyst.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,11 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Customer Service Representative
+    company: The 7th Circle 
+    location: Barcelona
+    date_start: '2022-12-01'
+    date_end: ''
+    description: |2-
+        Responsibilities included:
+        * Communicate with customers over the phone to register them, sell services, process payments and manage appointments
+        * Update database records of customers interactions, transactions and complaints
+
   - title: Online Data Analyst
     company: Telus International AI 
     location: Remote
     date_start: '2022-05-02'
-    date_end: ''
+    date_end: '2022-011-31'
     description: Analyze and provide feedback on text, web pages, images and other types of information for leading search engines.
   
   - title: Researcher
@@ -50,7 +60,7 @@ experience:
     location: Mexico City, Mexico
     date_start: '2020-01-01'
     date_end: '2020-07-01'
-    description: Assisted with teaching duties and grading in ‘Applied statistics in the social sciences II” course.
+    description: Served as teacher assistant in the ‘Applied statistics in the social sciences II” course for sociology students. Helped to prepare materials for lessons, graded course work and supported students in learning how to use R and RStudio software.
 
 design:
   columns: '2'
