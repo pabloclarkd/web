@@ -70,4 +70,4 @@ I am a data analyst and researcher with seven years of experience working in a n
 
 I studied sociology and mostly learned qualitative methods like ethnography, but data analysis has become one of my favorite parts of doing research during my professional work and I especially enjoy using R to produce analysis, visualizations and dashboards. I built this site to showcase my experience and demonstrate the skills I could contribute in a new professional role.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV {{< /staticref >}}.

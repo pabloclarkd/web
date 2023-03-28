@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Pablo Clark # Website name
-baseURL: 'https://pabloclarkd.github.io/WebPortafolio' # Website URL
+baseURL: 'https://pabloclarkd.github.io/Web' # Website URL
 
 ############################
 ## LANGUAGE
