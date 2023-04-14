@@ -41,7 +41,7 @@ experience:
   
   - title: Researcher
     company: Instituto Mexicano para la Competitividad A.C.
-    location: Mexico City
+    location: Mexico City, Mexico
     date_start: '2015-01-01'
     date_end: '2022-05-01'
     description: |2-
