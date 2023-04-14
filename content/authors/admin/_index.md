@@ -65,9 +65,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a data analyst and researcher with seven years of experience working in a non-governmental organization. My work has focused on different topics in education, such as gender equality in STEM, higher education economic returns and school choice in Mexico. I also worked on several websites that use data to help students, parents and schools make evidence-based decisions about their education. 
+I am a data analyst and public policy researcher with seven years of experience working in a non-governmental organization. My work has focused on different topics in education, such as gender equality in STEM, higher education economic returns and school choice in Mexico. I have also worked on several websites that use data to help students, parents and schools make evidence-based decisions about their education.  
 
 
 I studied sociology and mostly learned qualitative methods like ethnography, but data analysis has become one of my favorite parts of doing research during my professional work and I especially enjoy using R to produce analysis, visualizations and dashboards. I built this site to showcase my experience and demonstrate the skills I could contribute in a new professional role.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV {{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.

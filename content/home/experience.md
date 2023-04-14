@@ -59,7 +59,7 @@ experience:
     location: Mexico City, Mexico
     date_start: '2020-01-01'
     date_end: '2020-07-01'
-    description: Assisted with teaching duties and grading in ‘Applied statistics in the social sciences II” course.
+    description: Served as teacher assistant in the ‘Applied statistics in the social sciences II” course for sociology students. Helped to prepare materials for lessons, graded course work and supported students in learning how to use R and RStudio software.
 
 design:
   columns: '2'

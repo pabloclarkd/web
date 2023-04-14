@@ -1,7 +1,7 @@
 ---
 title: "¿Dónde están las científicas?"
 
-summary: This research report offers a snapshot of the presence of women in STEM in universities and the workforce in Mexico. It uses data from a labor market survey and college administrative records to outline the main challenges that women who study or work in STEM faced between 2012 and 2021 and offers some policy suggestions on how to address these issues. 
+summary: This research report is a snapshot of the presence of women in STEM in universities and the workforce in Mexico. It uses data from a labor market survey and college administrative records to outline the main challenges that women who study or work in STEM faced between 2012 and 2021 and offers some policy suggestions on how to address these issues. 
 
 tags: 
 - Analysis

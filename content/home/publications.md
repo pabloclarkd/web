@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Publications
-subtitle: Most of my work involved some form of writing. I regularly wrote reports, policy analysis briefs, opinion articles, grant proposals and social media material, and it was one of my favorite parts of my job. This is a selection of that work. 
+subtitle: Most of my work as a researcher and data analyst involved some form of writing. I regularly wrote reports, policy analysis briefs, opinion articles, grant proposals and social media material, and it was one of my favorite parts of my job. This is a selection of that work. 
 
 content:
   # Filter on criteria
