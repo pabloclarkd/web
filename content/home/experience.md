@@ -29,7 +29,7 @@ experience:
     date_end: ''
     description: |2-
 
-        * Communicate with customers over the phone to register them, sell services, process payments and manage appointments
+        * Communicate with customers over the phone to create accounts, sell services and manage appointments
         * Update database records of customers interactions, transactions and complaints
 
   - title: Online Data Analyst
