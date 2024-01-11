@@ -21,7 +21,7 @@ image:
   preview_only: true
 
 # Materials
-url_code: "https://drive.google.com/drive/folders/1-aOiukhl_-fdC_ZyyFfTMlTRk84vBovZ?usp=sharing"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

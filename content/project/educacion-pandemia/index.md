@@ -16,7 +16,7 @@ featured: false
 draft: false
 
 # Materials
-url_code: "https://drive.google.com/drive/folders/1tkVNyufkCTmeOaanTNtd9NYAz5npMcu_?usp=sharing"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""

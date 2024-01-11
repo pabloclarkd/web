@@ -30,7 +30,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://drive.google.com/drive/folders/1DI0ucFyD5cH8pM-ky09lRSEOt93HHwXd?usp=sharing"
+url_code: ""
 url_pdf: "https://imco.org.mx/wp-content/uploads/2022/02/%C2%BFDo%CC%81nde-esta%CC%81n-las-cienti%CC%81ficas__Documento_20220201.pdf"
 url_slides: ""
 url_video: ""
@@ -54,3 +54,5 @@ This research report offers a snapshot of the presence of women in STEM in unive
 I was the main author of this research report, which analyzes ten years of data from household surveys and administrative records on college enrollment to describe how the gender gap in STEM subjects and occupations begins in childhood and grows until it comes to shape women's professional careers. 
 
 **Additional content for this project can be found below and in the links beneath this page's main title.**
+
+![Grafica1](/areas_genero.jpg )
