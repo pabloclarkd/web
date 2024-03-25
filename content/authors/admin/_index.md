@@ -29,10 +29,10 @@ bio: ""
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor's Degree in Sociology
+    - course: Bachelor's in Sociology
       institution: Universidad Nacional Autónoma de México
       year: 2015
-      - course: Master in Sociology
+    - course: Master in Sociology
       institution: University of Gothenburg
       year: 2024
 
