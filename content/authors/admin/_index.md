@@ -32,6 +32,9 @@ education:
     - course: Bachelor's Degree in Sociology
       institution: Universidad Nacional Autónoma de México
       year: 2015
+      - course: Master in Sociology
+      institution: University of Gothenburg
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
