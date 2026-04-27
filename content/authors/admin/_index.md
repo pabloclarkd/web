@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pablo Clark
+title: Pablo Clark García
 
 # Full name (for SEO)
 first_name: Pablo
@@ -10,7 +10,7 @@ last_name: Clark García Dobarganes
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst & Researcher
+role: Public Policy Researcher & Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,7 +34,7 @@ education:
       year: 2015
     - course: Master in Sociology
       institution: University of Gothenburg
-      year: 2024
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a data analyst and researcher with seven years of experience working in a non-governmental organization. My work has focused on different topics in education, such as gender equality in STEM, higher education economic returns and school choice in Mexico. I also worked on several websites that use data to help students, parents and schools make evidence-based decisions about their education. 
+I am a public policy researcher and data analyst with seven years of experience working in a non-governmental organization. My work has focused on different topics in education, such as gender equality in STEM, higher education economic returns and school choice in Mexico. I also worked on several websites that use data to help students, parents and schools make evidence-based decisions about their education. 
 
 
 I studied sociology and mostly learned qualitative methods like ethnography, but data analysis has become one of my favorite parts of doing research during my professional work and I especially enjoy using R to produce analysis, visualizations and dashboards. I built this site to showcase my experience and demonstrate the skills I could contribute in a new professional role.

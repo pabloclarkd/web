@@ -27,15 +27,12 @@ feature:
   - description: I've published several research reports, policy analysis briefs, opinion articles, grant proposals and essays. I also routinely drafted and collaborated in writing press releases, social media materials and presentations.
     icon: file-word
     icon_pack: fas
-    name: Writing
+    name: Academic writing
   - description: I was in charge of several analysis projects and web tools. My responsabilities included planning their goals and stages, collecting and analyzing its data, tracking its processes and outcomes, and working together with other teams to make sure the projects moved along timely and appropriately. 
     icon: list-check
     icon_pack: fas
     name: Project Management
-  - description: I have basic SQL skills. The projects that involved web tools occasionally required me to query data, before working with it in some other software like R. I also had to be familiar with parts of the data models, as I often prepared data for others insert into our sites´ databases. 
-    icon: code
-    icon_pack: fas
-    name: SQL
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

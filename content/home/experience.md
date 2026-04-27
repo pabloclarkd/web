@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Experience
-subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I stayed there for seven years. After that I had roles as an Online Data Anylist and a Customer Service Representative. At the moment, I'm preparing to start a Master's in Sociology at the University of Gothenburg.
+subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I worked there for seven years. After that I had roles as an Online Data Analyst and a Customer Service Representative. I am currently writing my thesis for the Master's in Sociology at the University of Gothenburg.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format

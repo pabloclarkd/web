@@ -25,7 +25,7 @@ item:
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/5PAW68A63Q2F
     date_end: ''
     date_start: '2022-09-25'
-    description: All of my little knowledge of SQL was self-taught, so I used this course to review and expand on that experience. 
+    description: My  knowledge of SQL is self-taught, so I used this course to review and expand on that experience. 
     organization: Coursera
     organization_url: https://www.coursera.org
     title: SQL for Data Science
