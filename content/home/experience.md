@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Experience
-subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I worked there for seven years. After that I had roles as an Online Data Analyst and a Customer Service Representative. I am currently writing my thesis for the Master's in Sociology at the University of Gothenburg.
+subtitle: I started working at [IMCO](https://imco.org.mx/), a non-government organization, while finishing college and I worked there for seven years. After that I had roles as an Online Data Analyst and a Customer Service Representative.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -29,15 +29,16 @@ experience:
     date_end: '2024-05-15'
     description: |2-
 
-        * Communicate with customers over the phone to create accounts, sell services and manage appointments
-        * Update database records of customers interactions, transactions and complaints
+        * Communicated with customers to create accounts, process payments and manage appointments
+        * Updated database records of customers interactions and transactions
 
   - title: Online Data Analyst
     company: Telus International AI 
     location: Remote
     date_start: '2022-05-02'
     date_end: '2022-12-01'
-    description: Analyze and provide feedback on text, web pages, images and other types of information for leading search engines.
+    description: |1-
+        * Analyze and provide feedback on text, web pages, images and other types of information for leading search engines.
   
   - title: Researcher
     company: Instituto Mexicano para la Competitividad A.C.
@@ -46,20 +47,20 @@ experience:
     date_end: '2022-05-01'
     description: |2-
         
-        * Led public policy analysis projects in topics such as higher education economic returns, school choice, and women in STEM
-        * Analyzed data and created visualizations to answer research questions and turn insights into stories in reports, opinion articles, presentations and essays
-        * Collected data from various sources and wrote scripts to transform it for use in relational databases
-        * Managed development of a website and maintained two other web tools, coordinating the work of the developer, analyst and communications team
-        * Wrote grant proposals, research reports and presentations and communication materials such as opinion articles and infographics
+        * Led public policy analysis projects in topics including gender equality in STEM, the economic returns of higher education, and school choice in Mexico
+        * Collected, processed and analyzed large-scale datasets to answer research questions and turn insights into stories in reports, opinion articles, presentations and essays
+        * Managed websites that use data to help parents and students make informed decisions about their education, coordinating the work of the research, IT and communications teams
+        * Wrote grant proposals, research reports and presentations and communication materials including opinion articles and infographics
         * Presented research findings to donors, clients, media and other stakeholders
-        * Used Google Analytics to monitor site usage, track objectives and suggest improvements
 
   - title: Teacher Assistant
     company: Universidad Nacional Autónoma de México
     location: Mexico City, Mexico
     date_start: '2020-01-01'
     date_end: '2020-07-01'
-    description: Served as teacher assistant in the ‘Applied statistics in the social sciences II” course for sociology students. Helped to prepare materials for lessons, graded course work and supported students in learning how to use R and RStudio software.
+    description: |1-
+    
+        * Served as teacher assistant in the ‘Applied statistics in the social sciences II” course for sociology students. Helped to prepare materials for lessons, graded course work and supported students in learning how to use R and RStudio software.
 
 design:
   columns: '2'

@@ -68,8 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a public policy researcher and data analyst with 7 years of experience working at a non-governmental organization that aimed to enrich public policy decision-making with rigorous analysis. My work focused on various topics in education, including gender equality in STEM, the economic returns of higher education, and school choice in Mexico. I was also responsible for two websites that used data to help students, parents, and schools make evidence-based decisions about education.
+I am a public policy researcher and data analyst with 7 years of experience working at a non-governmental organization that aimed to enrich public policy decision-making with rigorous analysis. My work focused on various education topics, including gender equality in STEM, the economic returns of higher education, and school choice in Mexico. I was also responsible for two websites that used data to help students, parents, and schools make evidence-based decisions about education.
 
-I am originally from Mexico, where I studied sociology, but I have also lived in the USA, Japan, and Spain. Currently, I am studying a Master’s Degree in Gothenburg, Sweden. I built this site to showcase my experience and demonstrate the skills I can contribute in a professional role.
+I am originally from Mexico, where I studied a Bachelor’s Degree in sociology and began my professional career, but I have also lived in the USA, Japan, and Spain. Currently, I am studying a Master’s Degree in Sociology at the University of Gothenburg, Sweden. I built this site to showcase my experience and demonstrate the skills I can contribute in a professional role. If you are interested in reaching out to me, you can find my contact information in my CV below. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV {{< /staticref >}}.
