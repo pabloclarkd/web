@@ -4,7 +4,7 @@ title: "Mejora Tu Escuela"
 
 subtitle: "An online tool to help citizens make data-driven decisions about their education"
 
-summary: Mejora Tu Escuela is an online platform that provides citizens with data about school performance. It helps parents choose the best option for their children, empowers them to demand higher-quality education, and gives them tools to get involved in their children’s schooling. It also provides school administrators, policymakers and NGOs with data to identify areas requiring improvement and hotbeds of corruption, in the process raising the overall quality of education in Mexico.
+summary: Mejora Tu Escuela is an online platform that provides citizens with data about school performance. It helps parents choose the best option for their children, empowers them to demand higher-quality education, and gives them tools to get involved in their children’s schooling. It also provides school administrators, policymakers, and NGOs with data to identify areas requiring improvement and hotbeds of corruption, thereby contributing to raising the overall quality of education in Mexico.
 
 authors: 
 - admin
@@ -39,10 +39,10 @@ projects: []
 
 #### Project Description
 
-[Mejora Tu Escuela](https://mejoratuescuela.org) is an online platform that provides citizens with information about school performance. It has a profile for every school in Mexico and displays information like its location, enrollment, teacher characteristics and performance in national standardized testing. The site allows parents to search for schools of their choice, to grade and to comment on some of the school's services.
+[Mejora Tu Escuela](https://mejoratuescuela.org) is an online platform that provides citizens with information about school performance. It has a profile for every school in Mexico and displays information such as its location, enrollment, teacher characteristics, and performance on national standardized tests. The site allows parents to search for schools of their choice, rate, and comment on some schools' services.
 
 #### What was my involvement in this project?
 
-I began doing an intership at IMCO while finishing college and my first experience there was Mejora Tu Escuela. I worked on this project for several years until I became responsible it as a whole. At first I was involved in dealing with the site's users and writing content. Afterwards I began to work with its data, dealing with tasks like finding available sources, processing and using them in analysis, and preparing them to be inserted into the site's database. Later on, I began to use Google Analytics to monitor site usage, track objectives and implement changes and additions to the site. 
+When I began an internship at IMCO while finishing college, my first experience there was working with Mejora Tu Escuela, supporting its users, and drafting social media materials. I worked on this project for several years until I took on responsibility for it as a whole. My main activities were then working with its data, handling tasks such as finding available sources, processing and using them in analysis, and preparing them for insertion into the site's database. Later on, I began using Google Analytics to monitor site usage, track objectives, and implement changes and additions to the site.  
 
 **Additional content for this project can be found beneath this page's main title.**

@@ -1,8 +1,8 @@
 ---
 title: "Compara Carreras"
-subtitle: "An online platform that displays data to help prospective college students make informed decisions about their choice of academic major from an economical perspective."
+subtitle: "An online platform that presents data to help prospective college students make evidence-based decisions about their choice of academic major from an economic perspective."
 
-summary: ComparaCarreras.org is an online tool that displays labor market data of college graduates in Mexico, like earnings, tuition costs, employment rates and return on investment, and allows easy comparisons between different majors. This site helps prospective college students understand the economical costs, benefits and risks associated with different academic programs, so that their choice can balance their interests and aptitudes with their financial expectations.
+summary: ComparaCarreras.org is an online tool that presents a wide range of labor-market indicators for college graduates in Mexico, including earnings, tuition costs, employment rates, and return on investment, and allows easy comparisons across majors. This site helps prospective college students understand the economic costs, benefits, and risks associated with different academic programs, so they can make choices that balance their interests and aptitudes with their financial goals.
 
 authors:
 - admin
@@ -32,13 +32,12 @@ url_video: ""
 
 ![Compara Carreras](/compara.jpg ) 
 
-[ComparaCarreras.org](https://imco.org.mx/comparacarreras/) (_CompareMajors_, in Spanish) is an interactive tool for prospective college students to view and compare key statistics about graduates of different academic majors in the labor market. Its goals are to help young people make evidence-based decisions and to consider an economic perspective when choosing an academic major in college. The site presents a profile for university programs in Mexico, with data such as their earnings, tuiton costs,employment rates and return on investment, and allows easy comparisons between different majors.
+[ComparaCarreras.org](https://imco.org.mx/comparacarreras/) (_CompareMajors_, in Spanish) is an interactive tool for prospective college students to view and compare key labor-market indicators for graduates of different academic majors. Its goals are to help young people make evidence-based decisions and to consider an economic perspective when choosing an academic major in college. The site presents profiles for most university study programs in Mexico, with data such as earnings, tuition costs, employment rates, and return on investment, and allows easy comparisons between different majors.
 
-#### How Was I Involved in this project?
+#### How was I Involved in this project?
 
-I was responsible for maintaining this project and presenting a yearly update of results, along with a launch campaign with communication materials, a press conference and a series of interviews. I worked on or coordinated many different tasks in this project. Some of these tasks dealt with its data, such as supervising a team of four interns who collected a small survey on college tuition costs, processing household surveys and other sources to obtain all necessary data, and creating files for the site’s database. I drafted press releases, social media materials and a slide presentation that used the project's results to tell young people who plan to attend college what they gain by using ComparaCarreras. 
+I was responsible for maintaining the website and presenting an annual data update, along with a launch campaign that included communication materials, a press conference, and radio and TV interviews. I worked on or supervised most tasks in this project: from collecting and processing large-scale, nationally representative household surveys in R to supervising a team of 4 research assistants in collecting a survey on college tuition costs and creating files for the site’s database. For the communication strategy, I drafted press releases, social media materials, and a presentation that used the project’s results to show young people planning to attend college what they gain by using ComparaCarreras.
 
-
-It was my responsibility to coordinate all these tasks with my supervisors, our communications teams and the web developers. As this was a recurring project every year, I wrote scripts to make almost all parts of the data processing and analysis fully reproducible and I consider this experience to be the moment when I began to really enjoy working on bigger projects in R.
+It was my responsibility to coordinate all these tasks with IMCO’s leadership, its communications teams, and the web developers. As this was a recurring project, I wrote scripts to make almost all aspects of data processing and analysis fully reproducible, and I consider this experience the moment I began to really enjoy working on larger projects in R.
 
 **Additional content for this project can be found below and in the links beneath this page's main title.**

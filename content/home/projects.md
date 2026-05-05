@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Projects
-subtitle: 'These are the projects I was most involved in while working at [IMCO](https://imco.org.mx/), a non-government organization based in Mexico City. Some of them are policy analysis and others are policy interventions.'
+subtitle: 'These are the projects I was most involved in while working at [IMCO](https://imco.org.mx/), a non-government organization based in Mexico City. Some of them were policy analyses aimed to contribute to public debate, while others were websites targeted directly at students, parents, and schools.'
 
 content:
   # Page type to display. E.g. project.

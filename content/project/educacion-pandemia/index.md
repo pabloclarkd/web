@@ -3,7 +3,7 @@ title: "Educación en pandemia"
 
 subtitle: "A research project exploring the effects brought by the pandemic on students and schools in Mexico"
 
-summary: Two research reports that analyze distance-learning policies during the pandemic in the Mexican educational system. The first document explores the effects of remote schooling on pupil's attendance and learning, in order to argue the urgency of public policies that manage the medium term consequences of a generation of students who learned less or cut their education short. The second document zooms in on the the actions implemented during the return to in-person classes, which intended to provide teachers with tools to diagnose student learning and to give support to pupils who fell behind their peers.
+summary: This project consists of two research reports that analyze distance-learning policies during the pandemic in the Mexican educational system. The first document explores the effects of remote schooling on pupils' attendance and learning to argue for the urgency of public policies that address the medium-term consequences for a generation of students who learned less or cut their education short. The second document zooms in on the actions implemented during the return to in-person classes in Mexico, intended to provide teachers with tools to diagnose student learning and support pupils who had fallen behind their peers.
 
 authors:
 - admin
@@ -31,18 +31,18 @@ image:
 
 #### Project Description
 
-During the pandemic, around 84% of students around the globe stopped going to in-person classes and received schooling at home for periods which in some countries extended to over two years. Available evidence on learning achievements during the pandemic indicates most students have not learned as much as they should have and drop-rates have increased across the board. However, policies meant to address these effects have been hampered by the lack of measurements of the depth of the impact of the pandemic on education. 
+During the pandemic, around 84% of students worldwide stopped attending in-person classes and received schooling at home for periods that, in some countries, extended to over 2 years. Available evidence on learning achievements during the pandemic indicates that most students have not learned as much as they should have, and drop rates have increased across the board. However, policies meant to address these effects have been hampered by a lack of measurements of the depth of the pandemic's impact on education. 
 
 ##### Report 1: Education in the Pandemic: the Risks of Distance Learning.
 
-This project consists of two brief reports, the first of which takes international estimates of learning and attendance during distance schooling and applies them to data on the Mexican education system. Its goal is to outline the possible effects and long-term consequences of a generation of students who learned less or dropped out of school entirely. 
+This project consists of two brief reports: the first uses international estimates of learning and attendance during distance schooling to apply them to data on the Mexican education system. Its goal is to outline the possible effects and long-term consequences of a generation of students who learned less or dropped out of school entirely. 
 
 ##### Report 2: A Return to School Without a Compass.
 
-The second research report explores the programs developed to measure student learning during the return to in-person schooling and to address its immediate effects on attendance and learning outcomes. It compares Mexico's strategy with alternatives developed by other education systems around the world, especially in Latin America, and offers suggestions to improve on them. 
+The second research report explores the programs developed to measure student learning during the return to in-person schooling and to address its immediate effects on attendance and learning outcomes. It compares Mexico's strategy with alternatives developed by other education systems around the world, especially in Latin America, and offers suggestions for improving them. 
 
 #### What was my involvement in this project?
 
-I was the sole author for the first document and main author of the second publication. My responsibilities began with proposing research questions and collecting all available data and literature. I wrote almost all of both reports, created data visualizations and drafted additional materials like press releases, social media material and presentations. As part of each report’s release, I gave several interviews and presented its findings to internal and external audiences.
+I was the sole author for the first document and the main author of the second publication. My responsibilities began with proposing research questions and collecting all available data and literature. I wrote almost all of both reports, created data visualizations, and drafted additional materials such as press releases, social media content, and presentations. As part of each report’s release, I gave several interviews and presented its findings to internal and external audiences.
 
 **Additional content for this project can be found below and in the links beneath this page's main title.**

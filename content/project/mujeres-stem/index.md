@@ -45,13 +45,13 @@ slides: ""
 
 #### Project Description
 
-In Mexico, women make up only 3 out of every 10 college graduates from science, technology, engineering and math degrees, also known as (STEM). This gender gap can be traced to childhood and shapes the rest of women's professional lives. STEM graduates earn some of the highest incomes ($13,336 pesos) in comparison to other graduates ($12,380) and the gender income gap is also lower among them. However, other gender gaps persist in STEM graduates who are in the labor market. Attracting more women to STEM, as well as making sure they grow and advance in their careers, would allow Mexico to benefit from the scientific potential of women. Strengthening the participation of women in these occupations would also send a message to young girls about their importance in science. 
+In Mexico, women make up only 3 out of every 10 college graduates with STEM degrees. This gender gap can be traced to family and school factors during childhood that shape the rest of women's professional lives. STEM graduates earn some of the highest incomes among graduates, and the gender income gap is also lower among them. However, gender gaps in fields and positions at work persist among STEM graduates in the labor market. Attracting more women to STEM and ensuring they grow and advance in their careers would allow Mexico to benefit from women's scientific potential. Strengthening women's participation in these occupations would also send a message to young girls about the importance of women in science. 
 
-This research report offers a snapshot of the presence of women in STEM in universities and the workforce in Mexico. It uses data from a labor market survey and college administrative records to outline the main challenges that women who study or work in STEM faced between 2012 and 2021 and offers some policy suggestions on how to address these issues.
+This research report provides a snapshot of women's presence in STEM in higher education and the workforce in Mexico. Using data from labor market surveys and college administrative records, it outlines the main challenges faced by women who study or work in STEM  and offers policy suggestions to address them. 
 
 #### What was my involvement in this project?
 
-I was the main author of this research report, which analyzes ten years of data from household surveys and administrative records on college enrollment to describe how the gender gap in STEM subjects and occupations begins in childhood and grows until it comes to shape women's professional careers. 
+I was the main author of this research report, which analyzes 10 years of data from household surveys and administrative records on college enrollment to describe how the gender gap in STEM subjects and occupations begins in childhood and grows to shape women's professional careers. While I co-authored the report with a colleague, I was responsible for all data processing, analysis, and visualization. After its publication, I presented the report at interviews and conferences.
 
 **Additional content for this project can be found below and in the links beneath this page's main title.**
 

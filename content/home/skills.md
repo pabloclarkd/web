@@ -16,7 +16,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: I produced analysis and visualizations to prepare data for our web tools and for analysis, to answer research questions, and to turn our results into stories that communicate our findings to other audiences.
+  - description: I produced analysis and visualizations to prepare data for our web tools and for analysis, to answer research questions, and to turn our results into stories that communicate our findings to various audiences.
     icon: chart-line
     icon_pack: fas
     name: Data Analysis and Visualization
@@ -32,6 +32,10 @@ feature:
     icon: list-check
     icon_pack: fas
     name: Project Management
+  - description: As part of the data tools aimed at students and parents I was responsible for at IMCO, as well as in a later position as a costumer support agent, I have experience at supporting user and clients.
+    icon: "technical-support"
+    icon_pack: "custom"
+    name: User and Client Support
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
