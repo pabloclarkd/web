@@ -147,6 +147,6 @@ concludes by outlining its theoretical and policy implications around social ine
 in educational trajectories.
 
 ##### Average marginal effect (AME) on the probability of choosing exam schools
-![Grafica1](/Fig3.png)
+![Grafica1](Fig3.png)
 
 Note: Reference category for school type is public general. Confidence intervals at 99%.
