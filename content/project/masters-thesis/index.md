@@ -85,6 +85,7 @@ change that was presented as more than a policy modification. It was described a
 philosophical reorientation from meritocracy to undifferentiated access, meant to
 distribute the chances of admission more evenly across applicants regardless of their
 origins, rather than consistently rewarding those who were already advantaged.
+
 Although the reform intended to stop the use of the exam altogether, it did not achieve
 its goal. After the National University (UNAM) and the National Polytechnic Institute
 (IPN) pushed to retain the exam, the result was a hybrid admissions system. It mixes a
@@ -95,6 +96,7 @@ school in their school selection had to prepare for and sit the exam, competing 
 admission based on their results. Those who applied only to the other schools simply
 entered the lottery and waited for the draw. The reform had set out to eliminate the
 exam, but instead, it made opting into it a deliberate decision linked to school choice.
+
 The transition to upper secondary education in Mexico City is shaped by a combination
 of heterogeneous schools and applicants from highly unequal social origins, which
 under the old system resulted in social segmentation of students among schools
@@ -113,6 +115,7 @@ concentrated among those with lower socioeconomic origins and weaker educational
 aspirations to reach higher levels of schooling. Among them, the probability of selecting
 exam-requirement schools dropped from 57.1% to 28.2%, compared to a decline from
 96.5% to 92.3% among high-socioeconomic and high aspiration applicants.
+
 The introduction of the two tracks in the admissions system changed the conditions
 under which applicants decide which schools to apply to. The drop in applicants
 selecting exam-requirement schools reflects how applicants’ school choices became
@@ -138,6 +141,7 @@ rather than merely reflects, the dynamics of social inequalities. As necessary s
 increase equality of opportunity in the transition to upper secondary schooling, it
 points to the importance of addressing heterogeneity among schools and the factors
 that result in differences in students' social and educational characteristics.
+
 This thesis is organized in six sections. Section 2 reviews research on educational
 inequality, specifically in upper secondary schooling in Mexico City. Section 3 provides
 an overview of education in Mexico and of the changes to Mexico City’s admission
@@ -146,7 +150,20 @@ results presented in Section 5. Finally, Section 6 synthesizes those results and
 concludes by outlining its theoretical and policy implications around social inequality
 in educational trajectories.
 
+
+#### Results
+
 ##### Average marginal effect (AME) on the probability of choosing exam schools
 ![Grafica1](Fig3.png)
 
 Note: Reference category for school type is public general. Confidence intervals at 99%.
+
+##### Predicted probability of choosing exam schools across the range of SES and Aspirations, by cohort.
+![Grafica2](Fig4.png)
+Note: Other variables held at public general school, mean grade average, mean aspirations, and mean expectations. 
+
+##### Predicted probability of choosing exam schools by SES conditioned by low and high aspirations, by cohort.
+![Grafica](Fig5.png)
+Note: Other variables held at public general school, mean grade average, and mean expectations. SD range is bounded to exclude extreme values. 
+
+

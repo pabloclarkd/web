@@ -164,3 +164,18 @@ results presented in Section 5. Finally, Section 6 synthesizes those results and
 concludes by outlining its theoretical and policy implications around social inequality
 in educational trajectories.
 
+
+#### Results
+
+##### Average marginal effect (AME) on the probability of choosing exam schools
+![Grafica1](Fig3.png)
+
+Note: Reference category for school type is public general. Confidence intervals at 99%.
+
+##### Predicted probability of choosing exam schools across the range of SES and Aspirations, by cohort.
+![Grafica2](Fig4.png)
+Note: Other variables held at public general school, mean grade average, mean aspirations, and mean expectations. 
+
+##### Predicted probability of choosing exam schools by SES conditioned by low and high aspirations, by cohort.
+![Grafica](Fig5.png)
+Note: Other variables held at public general school, mean grade average, and mean expectations. SD range is bounded to exclude extreme values. 
